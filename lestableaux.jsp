@@ -98,3 +98,4 @@ Ecrire un programme afin de faire la somme de toutes les valeurs saisies par l'u
        int intValeur = Integer.parseInt(valeur);
        if (Math.abs(intValeur) < Math.abs(valeurProcheDeZero2) ||
            (Math.abs(intValeur) == Math.abs(valeurProcheDeZero2) && intValeur > valeurProcheDeZero2)) {
+... (10lignes restantes)
